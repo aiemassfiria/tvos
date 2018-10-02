@@ -365,6 +365,26 @@
          "release_date":"2018-05-15"
       },
       {
+         "vote_count":4828,
+         "id":383498,
+         "video":false,
+         "url_link":7.5,
+         "title":"FOX Movies",
+         "popularity":100.792,
+         "poster_path":"\/413_300.png",
+         "original_source":"astro",
+         "original_title":"FOX Movies",
+         "genre_ids":[
+            28,
+            35,
+            878
+         ],
+         "backdrop_path":"\/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+         "adult":false,
+         "overview":"http://tv.redboxtv.net:4554/prem/foxmovieshd/playlist.m3u8",
+         "release_date":"2018-05-15"
+      },
+      {
          "vote_count":1566,
          "id":402900,
          "video":false,
